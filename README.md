@@ -20,7 +20,7 @@
 
 ## 🚀 About Me
 
-  <br>
+
 🎓 I graduated from Poznan Univeristy of technology , Department of Engineering Managemnt (Undergraduate)
   <br>
   💻 I love writing code and learn anythings about it
