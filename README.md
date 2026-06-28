@@ -59,7 +59,6 @@
 <img title="npm" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 <img title="PHP" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 
-<p>
   <img title="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img title="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img title="GitHub" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
