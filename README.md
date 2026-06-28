@@ -31,7 +31,7 @@
 - 🔭 &nbsp; I graduated from Poznan Univeristy of technology , Department of Engineering Managemnt (Undergraduate)
 - 🤝 &nbsp; I love writing code and learn anythings about it
 - 🌱 &nbsp; I’m currently learning Typescript; 
-- 🎨 &nbsp; Currently strengthening my skills in Machine Learning, Cloud Computing, and Full-Stack Development through hands-on projects
+- 🎨 &nbsp; Currently strengthening my skills in Machine Learning, Cloud Computing,
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/moussa-djaadi-929313229/).
 <br>
@@ -66,7 +66,7 @@
 </p>
 <hr>
 
-<Stats>
+
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zumrudu-anka&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
