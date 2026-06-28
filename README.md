@@ -109,7 +109,7 @@ I am particularly interested in:
 
 ## 🛠 Technologies
 
-### Languages                                       
+###📚 Languages                                       
 
 - Python
 - SQL
