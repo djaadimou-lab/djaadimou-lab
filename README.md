@@ -22,8 +22,8 @@
 <br/>
 <br/>
 ### 🧐 More About Me:
-<br/>=
 <br/>
+
 - 🔭 &nbsp; I graduated from Poznan Univeristy of technology , Department of Engineering Managemnt (Undergraduate)
 - 🤝 &nbsp; I love writing code and learn anythings about it
 - 🌱 &nbsp; I’m currently learning Typescript; 
