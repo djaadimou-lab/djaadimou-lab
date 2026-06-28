@@ -63,6 +63,7 @@
   <code><img title="PHP" height="25" src="images/php.svg"></code>
   <code><img title="Flask" height="25" src="images/flask.png"></code>
 </p>
+<hr>
 
 ## 🎯 Professional Goals
 
