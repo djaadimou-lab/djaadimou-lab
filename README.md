@@ -13,12 +13,13 @@
 📍 Poland  
 📧 djaadi.mou@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/moussa-djaadi-929313229/
-
+<br/>
+<br/>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 
-## 🚀 About Me
+### 🚀 About Me
 
 
 🎓 I graduated from Poznan Univeristy of technology , Department of Engineering Managemnt (Undergraduate)
