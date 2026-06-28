@@ -7,7 +7,7 @@
 <h5 align="center">
 
 <p align="center">
-  Hi, I'm Moussa Djaadi, IT Support Engineer& Data scientist & Software Developer
+  Hi, I'm Moussa Djaadi 😊, IT Support Engineer& Data scientist & Software Developer
   <br>
 
 📍 Poland  
