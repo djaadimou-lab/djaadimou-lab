@@ -78,7 +78,7 @@
 
 
 ## 🎯 Professional Goals
-<br>
+
 - Azure Engineer
 - Machine Learning Engineer
 - Data Scientist
