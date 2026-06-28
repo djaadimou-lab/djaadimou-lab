@@ -20,7 +20,7 @@
 
 
 ### 🚀 About Me
-
+<p align="left">
 
 🎓 I graduated from Poznan Univeristy of technology , Department of Engineering Managemnt (Undergraduate)
   <br>
