@@ -187,7 +187,8 @@ When I'm not learning or building projects, you can usually find me:
 💼 LinkedIn: https://www.linkedin.com/in/moussa-djaadi-929313229/
 
 🐙 GitHub:
-https://github.com/YOURUSERNAME
+https://github.com/djaadimou-lab
+
 
 ---
 
@@ -204,5 +205,8 @@ https://github.com/YOURUSERNAME
 🌍 Open to International Opportunities
 
 ---
+
+<h5 align="center">
+Thank you for your visit 😊
 
 > “Continuous learning and innovation are the keys to building impactful technology solutions.”
