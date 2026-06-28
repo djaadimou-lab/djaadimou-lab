@@ -145,7 +145,7 @@ I am particularly interested in:
 
 ## 📂 Selected Projects
 
-### 🍽️ Food Analysis Application )collaboration with colleague)
+### 🍽️ Food Analysis Application (collaboration with colleague)
 
 A machine learning project designed to analyze food images and provide insights such as food classification, nutritional estimation, and health-related recommendations.
 
@@ -153,9 +153,6 @@ A machine learning project designed to analyze food images and provide insights 
 
 Automated extraction and processing of invoice data using OCR, image preprocessing techniques, and workflow automation.
 
-### ☁️ Cloud Learning Repository
-
-A collection of Azure and cloud-related labs, experiments, best practices, and learning notes.
 
 ---
 
