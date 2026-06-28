@@ -1,3 +1,6 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+
+
 
 #👋 Hi, I'm Moussa Djaadi
 
@@ -7,7 +10,7 @@
 📧 djaadi.mou@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/moussa-djaadi-929313229/
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
 
 ---
 
