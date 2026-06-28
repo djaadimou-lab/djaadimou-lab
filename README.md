@@ -30,7 +30,7 @@
 - 🔭 &nbsp; I graduated from Poznan Univeristy of technology , Department of Engineering Managemnt (Undergraduate)
 - 🤝 &nbsp; I love writing code and learn anythings about it
 - 🌱 &nbsp; I’m currently learning Typescript; 
-- 🎨 &nbsp; urrently strengthening my skills in Machine Learning, Cloud Computing, and Full-Stack Development through hands-on projects
+- 🎨 &nbsp; Currently strengthening my skills in Machine Learning, Cloud Computing, and Full-Stack Development through hands-on projects
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn]([https://www.linkedin.com/in/rahul-jha98/](https://www.linkedin.com/in/moussa-djaadi-929313229/))
 
