@@ -32,8 +32,6 @@
   📫 How to reach me: <a href="mailto: djaadi.moussa@gmail.com">djaadi.moussa@gmail.com</a>
 </p>
 
-<hr>
-<!--END_SECTION:waka-->
 
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
