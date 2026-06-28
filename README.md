@@ -6,7 +6,9 @@
 
 <h5 align="center">
 
-### ☁️ IT Support Specialist | Azure & Cloud Enthusiast | Machine Learning Learner
+<p align="center">
+  Hi, I'm Moussa Djaadi, IT Support Engineer& Data scientist & Software Developer
+  <br>
 
 📍 Poland  
 📧 djaadi.mou@gmail.com  
