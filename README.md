@@ -42,9 +42,10 @@
 <br/>
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+
 <br>
 <br>
-<br>
+
 <p align="center">
   
 <img title="C++" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
