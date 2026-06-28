@@ -211,4 +211,4 @@ https://github.com/djaadimou-lab
 Thank you for your visit 😊, MD.
 <br>
 <br>
-> “Continuous learning and innovation are the keys to building impactful technology solutions.”
+ “Continuous learning and innovation are the keys to building impactful technology solutions.”
