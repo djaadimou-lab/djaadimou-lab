@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Moussa+Djaadi....;Nice+to+meet+you😊!&center=true&size=30">
   </a>
 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moussa-djaadi-929313229/)
 <h5 align="center">
 
 <p align="center">
