@@ -109,14 +109,14 @@ I am particularly interested in:
 
 ## 🛠 Technologies
 
-###📚 Languages                                       
+📚 Languages                                       
 
 - Python
 - SQL
 - PowerShell
 - Bash
 
-### Data & AI
+🔭 Data & AI
 
 - Pandas
 - NumPy
@@ -124,13 +124,13 @@ I am particularly interested in:
 - OpenCV
 - Tesseract OCR
 
-### Cloud
+👨🏻‍💻 Cloud
 
 - Microsoft Azure
 - Azure Machine Learning
 - AWS Fundamentals
 
-### Tools
+📝 Tools
 
 - Git
 - GitHub
