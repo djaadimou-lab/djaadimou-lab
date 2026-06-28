@@ -18,11 +18,11 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
-<br/>
-<br/>
-<br/>
+
+
+
 ### 🧐 More About Me:
-<br/>
+
 
 - 🔭 &nbsp; I graduated from Poznan Univeristy of technology , Department of Engineering Managemnt (Undergraduate)
 - 🤝 &nbsp; I love writing code and learn anythings about it
