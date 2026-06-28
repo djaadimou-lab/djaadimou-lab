@@ -20,6 +20,8 @@ My journey started in IT Support, where I developed strong troubleshooting, anal
 
 Today, I'm focused on building projects that combine software development, machine learning, automation, and cloud computing to solve real-world challenges.
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+
 
 ## 🎯 Professional Goals
 
