@@ -38,9 +38,6 @@
 
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
