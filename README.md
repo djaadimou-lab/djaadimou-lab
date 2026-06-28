@@ -14,7 +14,7 @@
 📧 djaadi.mou@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/moussa-djaadi-929313229/
 <br/>
-<br/>
+-
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
@@ -22,17 +22,13 @@
 ### 🚀 About Me
 
 <p align="left">
-🎓 I graduated from Poznan Univeristy of technology , Department of Engineering Managemnt (Undergraduate)
-  <br>
-  💻 I love writing code and learn anythings about it
-  <br>
- 📚 Currently strengthening my skills in Machine Learning, Cloud Computing, and Full-Stack Development through hands-on projects
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: djaadi.moussa@gmail.com">djaadi.moussa@gmail.com</a>
-</p>
+-🎓 I graduated from Poznan Univeristy of technology , Department of Engineering Managemnt (Undergraduate)
+-  💻 I love writing code and learn anythings about it
+- 📚 Currently strengthening my skills in Machine Learning, Cloud Computing, and Full-Stack Development through hands-on projects
+-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
+-  📫 How to reach me: <a href="mailto: djaadi.moussa@gmail.com">djaadi.moussa@gmail.com</a>
 
+<br/>
 
 
 
