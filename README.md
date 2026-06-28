@@ -20,13 +20,19 @@
 
 ## 🚀 About Me
 
+  <br>
+🎓 I graduated from Poznan Univeristy of technology , Department of Engineering Managemnt (Undergraduate)
+  <br>
+  💻 I love writing code and learn anythings about it
+  <br>
+ 📚 Currently strengthening my skills in Machine Learning, Cloud Computing, and Full-Stack Development through hands-on projects
+  <br>
+  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
+  <br>
+  📫 How to reach me: <a href="mailto: djaadi.moussa@gmail.com">djaadi.moussa@gmail.com</a>
+</p>
 
-I'm Moussa, a technology enthusiast who enjoys turning ideas into practical solutions.
-
-My journey started in IT Support, where I developed strong troubleshooting, analytical, and problem-solving skills. Over time, my curiosity led me toward cloud technologies, automation, artificial intelligence, and data-driven solutions.
-
-Today, I'm focused on building projects that combine software development, machine learning, automation, and cloud computing to solve real-world challenges.
-
+<hr>
 <!--END_SECTION:waka-->
 
 
