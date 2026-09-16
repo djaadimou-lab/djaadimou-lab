@@ -28,7 +28,8 @@
 ### 🧐 More About Me:
 
 
-- 🔭 &nbsp; I graduated from Poznan Univeristy of technology , Department of Engineering Managemnt (Undergraduate)
+- 🔭 &nbsp; I graduated from Poznan Univeristy of technology , Department of Engineering Managemnt
+- 🔭 &nbsp; I graduated from Ahmed Draya , Department of Computer sciense
 - 🤝 &nbsp; I love writing code and learn anythings about it
 - 🌱 &nbsp; I’m currently learning Typescript; 
 - 🎨 &nbsp; Currently strengthening my skills in Machine Learning, Cloud Computing,
