@@ -29,7 +29,7 @@
 
 
 - 🔭 &nbsp; I graduated from Poznan Univeristy of technology , Department of Engineering Managemnt
-- 🔭 &nbsp; I graduated from Ahmed Draya , Department of Computer sciense
+- 🔭 &nbsp; B.Sc. in Mathematics and Computer Science Department (2921) — University of Science and Technology Houari Boumediene (USTHB), Algeria
 - 🤝 &nbsp; I love writing code and learn anythings about it
 - 🌱 &nbsp; I’m currently learning Typescript; 
 - 🎨 &nbsp; Currently strengthening my skills in Machine Learning, Cloud Computing,
