@@ -8,7 +8,7 @@
 <h5 align="center">
 
 <p align="center">
-  Hi, I'm Moussa Djaadi 😊,Senior IT Support Engineer & Data scientist & Software Developer
+Hi, I'm Moussa Djaadi 😊,Senior IT Engineer & Data scientist & Software Developer
   <br>
 <h5 align="center">
 📍 Poland  
@@ -72,10 +72,9 @@
 
 ## 🎯 Professional Goals
 
-- Azure Engineer
-- Machine Learning Engineer
-- Data Scientist
-- Infrastructure Engineer
+- Senior Machine Learning Engineer
+- Senior Data Scientist
+- Senior Infrastructure Engineer
 
 
 ## 🚀 What I'm Working On
@@ -188,6 +187,8 @@ https://github.com/djaadimou-lab
 ## ⚡ Fun Facts
 
 🏋️ Fitness Enthusiast
+
+🏋️ Coding (Programming)
 
 ⚽ Football Fan
 
