@@ -72,9 +72,9 @@ Hi, I'm Moussa Djaadi 😊,Senior IT Engineer & Data scientist & Software Develo
 
 ## 🎯 Professional Goals
 
-- Senior Machine Learning Engineer
-- Senior Data Scientist
-- Senior Infrastructure Engineer
+- Junior Machine Learning Engineer
+- Junior Data Scientist
+- Junior Infrastructure Engineer
 
 
 ## 🚀 What I'm Working On
